@@ -4,7 +4,7 @@ The robot uses an Aduino Mega controller equipped with a 16x2 LCD display. The r
 
 <p align="center">
   <img src="Mechanism2_default.png" width="500" title="hover text">
-  <img src="SAVE_20200104_220831.jpg" hight="200" alt="accessibility text">
+  <img src="SAVE_20200104_220831.jpg" width="150" alt="accessibility text">
   <img src="LINE_MOVIE_1578150406364[(000185)2020-09-07-08-49-11].jpg" width="350" alt="accessibility text">
   <img src="LINE_MOVIE_1578150406364[(000311)2020-09-07-08-49-50].jpg" width="350" alt="accessibility text">
 </p>
